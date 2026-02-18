@@ -1,2 +1,3 @@
-main.py
-project.py
+import streamlit as st
+
+st.title("Breast Cancer Stratification App")
